@@ -4,9 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server/server.js",
+    "build": "react-scripts build"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akash-sankarasetty/omegle-clone.git"
