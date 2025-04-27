@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server/server.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akash-sankarasetty/omegle-clone.git"
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/akash-sankarasetty/omegle-clone/issues"
   },
-  "homepage": "https://github.com/akash-sankarasetty/omegle-clone#readme"
+  "homepage": "https://github.com/akash-sankarasetty/omegle-clone#readme",
+  "dependencies": {
+    "ws": "^8.18.1"
+  }
 }
